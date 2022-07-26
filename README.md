@@ -11,8 +11,6 @@ To improve mapping performance, edit config/gmapping_params.yaml
 4. Follow this to set up user.name,user.email: https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
 5. Navigate to your ros workspace/src folder (catkin_ws/src or other) and git clone from my turtlebot_final_project repo
 
-From there, just devel/setup.bash and you should be able to start running it.
-
 **To run project:**
 1. Navigate to ws folder
 2. Run: `source devel/setup.bash`
