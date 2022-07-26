@@ -1,4 +1,5 @@
 <launch>
+  <!-- params info: http://docs.ros.org/en/hydro/api/gmapping/html/index.html -->
   <!-- Arguments -->
   <arg name="model" default="waffle_pi" doc="model type [burger, waffle, waffle_pi]"/>
   <arg name="configuration_basename" default="turtlebot3_lds_2d.lua"/>
